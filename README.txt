@@ -1,5 +1,7 @@
 # Internship Dashboard Project (Looker Studio)
 
+link for the Dashboard : https://lookerstudio.google.com/reporting/0816d59b-fa0a-436a-8a1c-29c7fb9918d0
+
 ## 📊 Task 1: Sales Analysis
 Includes:
 - Top 5 products chart
