@@ -19,8 +19,3 @@ Includes:
 - MySQL (for data prep)
 - Python (for CSV cleaning)
 - Jupyter Notebook
-
-## 🧾 Files:
-- `task1_dashboard.pdf`
-- `task2_dashboard.pdf`
-- `cleaned_data.csv`
